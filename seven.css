@@ -1,0 +1,20 @@
+
+body{
+  background: #007aff;
+ position: relative;
+}
+.container{
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  background: #fff;
+}
+.container-con{
+  text-align: center;
+font-size: 1.8rem;
+padding: 5px;
+background: #cce4ff;
+font-size: 22px;
+width: 40%;
+margin: 0 auto;
+}
